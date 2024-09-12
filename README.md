@@ -1,1 +1,1 @@
-# ug-placements-2024
+# cs-placement-website
